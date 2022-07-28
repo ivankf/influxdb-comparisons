@@ -13,6 +13,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/pkg/profile v1.6.0
 	github.com/stretchr/testify v1.8.0
+	github.com/taosdata/driver-go/v2 v2.0.4
 	github.com/valyala/fasthttp v1.24.0
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 )
